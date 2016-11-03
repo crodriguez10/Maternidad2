@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/citas" android:title="cita">citas</item>
+    <item android:id="@+id/ecografias" android:title="Ecografias">Ecografias</item>
+    <item android:id="@+id/motivos" android:title="Motivos">Motivos</item>
+    <item android:id="@+id/resultados" android:title="Resultados">Resultados</item>
+
+</menu>
